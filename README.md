@@ -1,2 +1,2 @@
-# simpleoutline-discord
-Borders.. Border's are so tasty..
+# Simple Outline
+Borders.. Borders are so tasty..
